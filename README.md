@@ -20,7 +20,9 @@
 
 文件内容：
 
-start.bat
+npc-start.bat
+
+npc-stop.bat
 
 SilentCMD.exe
 # 配置文件修改
