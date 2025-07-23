@@ -1,0 +1,1 @@
+start silentCMD.exe npc.exe
