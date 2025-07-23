@@ -62,4 +62,6 @@ vkey=客户端服务器通信唯一验证密钥，可在服务器web页面中添
 # 关于
 silentCMD项目地址:https://github.com/stbrenner/SilentCMD
 
+nps项目地址：https://github.com/ehang-io/nps
 
+nps后继版本：https://github.com/yisier/nps
