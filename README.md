@@ -59,7 +59,7 @@ vkey=客户端服务器通信唯一验证密钥，可在服务器web页面中添
 然后win+R打开运行，输入shell:startUP打开启动目录将桌面快捷方式拖进去，如果有安全软件提示开机自启点击运行即可
 
 
-
-
+# 关于
+silentCMD项目地址:https://github.com/stbrenner/SilentCMD
 
 
